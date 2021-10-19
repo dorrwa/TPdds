@@ -39,7 +39,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>Server</mainClass>
+                            <mainClass>dds.server.Server</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
